@@ -16,7 +16,6 @@ Educators
 - [ ] Domain Separation
 - [ ] Process Isolation
 - [x] Resource Encapsulation
-- [ ] Modularity
 - [x] Least Privilege
 - [x] Abstraction
 - [x] Data Hiding
